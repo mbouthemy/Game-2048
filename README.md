@@ -11,4 +11,4 @@ The library has some requirements :
 
 ## Utilisation
 
-To run it you can just double click the .exe if you are in Windows.
+To run it you can just double click the Jeu_2048.exe if you are in Windows.
