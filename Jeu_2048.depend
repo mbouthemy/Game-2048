@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1447581499 source:c:\users\marin\desktop\jeu_2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1447833362 source:e:\jeu_2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1447955106 source:h:\jeu_2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1448440576 source:e:\jeu_2048 - version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1448551402 source:h:\jeu_2048 - version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1449323940 source:c:\users\marin\desktop\jeu_2048 - version finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1449340662 source:e:\jeu_2048 - version finale - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1449649588 source:h:\jeu_2048 - version finale - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
